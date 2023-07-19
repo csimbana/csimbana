@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Carlos Simbaña @csimbana. 
-- 👀 I’m interested in PHP, Python, Cassandra, Hive, Pyspark and Neo4j jobs.
+- 👀 I’m interested in PHP, Oracle, Python, Cassandra, Hive, Pyspark and Neo4j jobs.
 - 🌱 I’m working as data engineering in Hadoop ecosistem.
 - 💞️ I'm looking to collaborate on data and software projects, etc. 
 - 🌱I can solved technical and teams’ issues. I have done algorithms, architectures, software development, online payments buttons; I manage projects, etc.
